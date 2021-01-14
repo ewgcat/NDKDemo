@@ -1,0 +1,5 @@
+# ninja log v5
+0	71	1610613747	CMakeFiles/hello-jni.dir/hello-jni.c.o	966ff78cdc9082b5
+71	98	1610613747	/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	67b2d997ea90a25b
+1	48	1610613918	CMakeFiles/hello-jni.dir/hello-jni.c.o	966ff78cdc9082b5
+48	89	1610613918	/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	67b2d997ea90a25b
