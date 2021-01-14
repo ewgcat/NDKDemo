@@ -1,4 +1,4 @@
-Hello JNI
+NDKDemo
 =========
 Hello JNI is an Android sample that uses JNI to call C code from a Android Java Activity.
 
