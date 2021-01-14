@@ -5,9 +5,9 @@
     "environmentVariables": []
   },
   "cmake": {
-    "cmakeArtifactsBaseFolder": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/.cxx/cmake/debug/x86",
-    "cmakeServerLogFile": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/.cxx/cmake/debug/x86/cmake_server_log.txt",
-    "cmakeWrappingBaseFolder": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/.cxx/cxx/debug/x86",
+    "cmakeArtifactsBaseFolder": "/Users/lishuaihua/Desktop/NDKDemo/app/.cxx/cmake/debug/x86",
+    "cmakeServerLogFile": "/Users/lishuaihua/Desktop/NDKDemo/app/.cxx/cmake/debug/x86/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/Users/lishuaihua/Desktop/NDKDemo/app/.cxx/cxx/debug/x86",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -15,13 +15,13 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/.cxx/cmake/debug/x86",
+      "buildRoot": "/Users/lishuaihua/Desktop/NDKDemo/app/.cxx/cmake/debug/x86",
       "cmakeToolchain": "/Users/lishuaihua/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
       "cmakeExecutable": "/Users/lishuaihua/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
       "variables": [
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/.cxx/cmake/debug/prefab/x86/prefab"
+          "value": "/Users/lishuaihua/Desktop/NDKDemo/app/.cxx/cmake/debug/prefab/x86/prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -57,7 +57,7 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/build/intermediates/cmake/debug/obj/x86"
+          "value": "/Users/lishuaihua/Desktop/NDKDemo/app/build/intermediates/cmake/debug/obj/x86"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
@@ -74,14 +74,14 @@
       ]
     }
   },
-  "cxxBuildFolder": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/.cxx/cmake/debug/x86",
+  "cxxBuildFolder": "/Users/lishuaihua/Desktop/NDKDemo/app/.cxx/cmake/debug/x86",
   "info": {
     "abi": "X86",
     "bitness": 32,
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/.cxx/cmake/debug/x86",
+  "originalCxxBuildFolder": "/Users/lishuaihua/Desktop/NDKDemo/app/.cxx/cmake/debug/x86",
   "variant": {
     "buildSystemArgumentList": [],
     "buildTargetSet": [],
@@ -98,12 +98,12 @@
         "ninjaExe": "/Users/lishuaihua/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
       },
       "cmakeToolchainFile": "/Users/lishuaihua/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
-      "cxxFolder": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/.cxx",
+      "cxxFolder": "/Users/lishuaihua/Desktop/NDKDemo/app/.cxx",
       "gradleModulePathName": ":app",
-      "intermediatesFolder": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/build/intermediates",
-      "makeFile": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/src/main/cpp/CMakeLists.txt",
-      "moduleBuildFile": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/build.gradle",
-      "moduleRootFolder": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app",
+      "intermediatesFolder": "/Users/lishuaihua/Desktop/NDKDemo/app/build/intermediates",
+      "makeFile": "/Users/lishuaihua/Desktop/NDKDemo/app/src/main/cpp/CMakeLists.txt",
+      "moduleBuildFile": "/Users/lishuaihua/Desktop/NDKDemo/app/build.gradle",
+      "moduleRootFolder": "/Users/lishuaihua/Desktop/NDKDemo/app",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
@@ -167,12 +167,12 @@
       "ndkDefaultStl": "LIBCXX_STATIC",
       "ndkVersion": "21.1.6352462",
       "project": {
-        "compilerSettingsCacheFolder": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/.cxx",
-        "cxxFolder": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/.cxx",
+        "compilerSettingsCacheFolder": "/Users/lishuaihua/Desktop/NDKDemo/.cxx",
+        "cxxFolder": "/Users/lishuaihua/Desktop/NDKDemo/.cxx",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni",
+        "rootBuildGradleFolder": "/Users/lishuaihua/Desktop/NDKDemo",
         "sdkFolder": "/Users/lishuaihua/Library/Android/sdk",
         "isPrefabEnabled": false
       },
@@ -189,7 +189,7 @@
         "SYSTEM": {}
       }
     },
-    "objFolder": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/build/intermediates/cmake/debug/obj",
+    "objFolder": "/Users/lishuaihua/Desktop/NDKDemo/app/build/intermediates/cmake/debug/obj",
     "variantName": "debug",
     "validAbiList": [
       "ARMEABI_V7A",
@@ -197,8 +197,8 @@
       "X86",
       "X86_64"
     ],
-    "prefabDirectory": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/.cxx/cmake/debug/prefab",
+    "prefabDirectory": "/Users/lishuaihua/Desktop/NDKDemo/app/.cxx/cmake/debug/prefab",
     "prefabPackageDirectoryList": []
   },
-  "prefabFolder": "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/.cxx/cmake/debug/prefab/x86"
+  "prefabFolder": "/Users/lishuaihua/Desktop/NDKDemo/app/.cxx/cmake/debug/prefab/x86"
 }

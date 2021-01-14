@@ -1,4 +1,4 @@
-# Install script for directory: /Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/src/main/cpp
+# Install script for directory: /Users/lishuaihua/Desktop/NDKDemo/app/src/main/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/.cxx/cmake/debug/x86/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/lishuaihua/Desktop/NDKDemo/app/.cxx/cmake/debug/x86/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

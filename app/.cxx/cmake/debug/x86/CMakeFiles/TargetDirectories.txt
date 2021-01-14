@@ -1,3 +1,3 @@
-/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
-/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
-/Users/lishuaihua/Desktop/ndk-samples-main/hello-jni/app/.cxx/cmake/debug/x86/CMakeFiles/hello-jni.dir
+/Users/lishuaihua/Desktop/NDKDemo/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/lishuaihua/Desktop/NDKDemo/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/lishuaihua/Desktop/NDKDemo/app/.cxx/cmake/debug/x86/CMakeFiles/hello-jni.dir
